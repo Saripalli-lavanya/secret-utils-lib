@@ -1,4 +1,4 @@
-module github.com/IBM/secret-utils-lib
+module github.com/Saripalli-lavanya/secret-utils-lib
 
 go 1.18
 
